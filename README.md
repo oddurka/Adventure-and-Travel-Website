@@ -43,7 +43,13 @@ Screenshots:
 
 
 
+![mockup 3](https://user-images.githubusercontent.com/16030875/156280681-16aa6f53-ab49-422a-b835-76918e37917d.png)
 
+
+![mock up 2](https://user-images.githubusercontent.com/16030875/156280760-a2611c2a-3d4e-423a-aa2f-6bdf7b0f65bd.png)
+
+
+![mockup 4](https://user-images.githubusercontent.com/16030875/156280782-6a435d7c-c193-4da3-a4a1-5793a730741d.png)
 
 - Technologies used:
 HTML 🚀
