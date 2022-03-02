@@ -26,6 +26,10 @@ https://user-images.githubusercontent.com/16030875/156280152-7162282d-4d99-421d-
 
 
 - Demo of the About second page: 
+
+https://user-images.githubusercontent.com/16030875/156280466-c7ea38cc-85e3-4391-92d7-aed62c9d0e43.mp4
+
+
 - Demo of the Property 1: 
 - Demo of the News 1: 
 
