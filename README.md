@@ -20,10 +20,10 @@ This is a modern Real State Agency website that has the purpose of offering the 
 
 - Links: 
 
-Demo of the Main page: https://www.loom.com/share/14f8605ba239480b930685f46a09698c
-Demo of the About second page: https://www.loom.com/share/054aa4afa06d442987e8424b6f22a8a0
-Demo of the Property 1: https://www.loom.com/share/10ed5b15985943bba979bd3a19032bd6
-Demo of the News 1: https://www.loom.com/share/1d7286a5f6eb4988a9eb2795db220e41
+- Demo of the Main page: 
+- - Demo of the About second page: 
+- Demo of the Property 1: 
+- Demo of the News 1: 
 
 
 
