@@ -37,6 +37,10 @@ https://user-images.githubusercontent.com/16030875/156280560-0320ebf5-77be-47c1-
 
 - Demo of the News 1: 
 
+https://user-images.githubusercontent.com/16030875/156281137-43be4bfa-402a-4276-b4e2-d112d2ee774d.mp4
+
+
+
 Screenshots:
 
 ![main mockup](https://user-images.githubusercontent.com/16030875/156280211-85929266-5abc-41f3-aeb3-105f7fdb5b62.png)
@@ -58,7 +62,7 @@ JavaScript 🚀
 SASS 🚀
 
 
-Features:
+- Features:
 Clean, Simple and Modern UI Design.
 Built with only HTML, CSS and a bit of JavaScript 🔨.
 Well Organized Documentation.
@@ -80,13 +84,15 @@ I will be connecting this project to a PHP and MySQL so the forms for the appoin
 - Useful resources:
 VS Code for coding purposes
 Loom for demo videos
+Pexels for the open source pictures used
 
 
-
-Author
+- Author:
 Website - Oddur K. Arnason
 
-Acknowledgments
+- Acknowledgments:
 Inspiration from: https://www.behance.net/gallery/96647749/R-State-Landing-Page 
+
+
 
 Thank you for checking my work!
