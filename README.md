@@ -1,5 +1,6 @@
+#Adventure-and-Travel-Website
 Frontend - Adventure and Travel Agency Website
-This is a conceptual case of a Real State Website with the purpose of improving my coding skills by building realistic projects.
+This is a conceptual case of a Travel Agency Website with the purpose of improving my coding skills by building realistic projects.
 
 Table of contents
 Overview
@@ -22,44 +23,56 @@ This is a modern Real State Agency website that has the purpose of offering the 
 
 - Demo of the Main page: 
 
-https://user-images.githubusercontent.com/16030875/156280152-7162282d-4d99-421d-8be7-38b0d2a5513f.mp4
 
 
-- Demo of the About second page: 
-
-https://user-images.githubusercontent.com/16030875/156280466-c7ea38cc-85e3-4391-92d7-aed62c9d0e43.mp4
+https://user-images.githubusercontent.com/16030875/156285102-d752b8c6-711a-42ab-8d1e-15c28bd1b088.mp4
 
 
-- Demo of the Property 1: 
 
-https://user-images.githubusercontent.com/16030875/156280560-0320ebf5-77be-47c1-9b35-f6b325cd9d4f.mp4
+
+- Demo of the Canoeing Package: 
+
+
+
+https://user-images.githubusercontent.com/16030875/156285413-902ba78c-628e-4ad8-b809-707c66cfcf19.mp4
+
+
+
+- Demo of the Morocco Travel Package: 
+
+
+
+https://user-images.githubusercontent.com/16030875/156285526-1280c9ef-9df0-4e95-95f0-6b1290bc1044.mp4
+
+
 
 
 - Demo of the News 1: 
 
-https://user-images.githubusercontent.com/16030875/156281137-43be4bfa-402a-4276-b4e2-d112d2ee774d.mp4
 
 
 
 Screenshots:
 
-![main mockup](https://user-images.githubusercontent.com/16030875/156280211-85929266-5abc-41f3-aeb3-105f7fdb5b62.png)
+![mockup main](https://user-images.githubusercontent.com/16030875/156285565-4517738f-49ec-4105-acd1-4c743c5af272.png)
+
+![mockup main 2](https://user-images.githubusercontent.com/16030875/156285579-04e876e8-041c-4cdb-91e1-f6ed737bbde3.png)
+
+![mockup glaciers 1](https://user-images.githubusercontent.com/16030875/156285596-981a0a92-721c-42e2-87e9-80743cb3f6e9.png)
 
 
+![mockup glaciers 2](https://user-images.githubusercontent.com/16030875/156285616-348730b5-c577-4610-aa4f-e942d9942039.png)
 
-![mockup 3](https://user-images.githubusercontent.com/16030875/156280681-16aa6f53-ab49-422a-b835-76918e37917d.png)
-
-
-![mock up 2](https://user-images.githubusercontent.com/16030875/156280760-a2611c2a-3d4e-423a-aa2f-6bdf7b0f65bd.png)
+![mockup morocco](https://user-images.githubusercontent.com/16030875/156285638-e768b826-c1d7-498f-813c-27f387852ee2.png)
 
 
-![mockup 4](https://user-images.githubusercontent.com/16030875/156280782-6a435d7c-c193-4da3-a4a1-5793a730741d.png)
+![mockup blog](https://user-images.githubusercontent.com/16030875/156285655-1c608da5-848f-4d9c-b53f-67d4e955c455.png)
 
 - Technologies used:
 HTML 🚀
 CSS 🚀
 JavaScript 🚀
-SASS 🚀
+
 
 
 - Features:
@@ -78,7 +91,7 @@ Multi-Page and some buttons have functions for demonstration purposes.
 I wanted to showcase different CSS animations when accessing to different sections as animations catches attention, I had the opportunity to play more with CSS and made slide functions work on Javascript. 
 
 - Continued development:
-I will be connecting this project to a PHP and MySQL so the forms for the appointment sections get completed with an email confirmation.
+I will be connecting this project to a PHP and MySQL so the forms for the booking/reservation of the different packages sections get completed with an email confirmation.
 
 
 - Useful resources:
@@ -89,10 +102,6 @@ Pexels for the open source pictures used
 
 - Author:
 Website - Oddur K. Arnason
-
-- Acknowledgments:
-Inspiration from: https://www.behance.net/gallery/96647749/R-State-Landing-Page 
-
 
 
 Thank you for checking my work!
