@@ -21,7 +21,11 @@ This is a modern Real State Agency website that has the purpose of offering the 
 - Links: 
 
 - Demo of the Main page: 
-- - Demo of the About second page: 
+
+https://user-images.githubusercontent.com/16030875/156280152-7162282d-4d99-421d-8be7-38b0d2a5513f.mp4
+
+
+- Demo of the About second page: 
 - Demo of the Property 1: 
 - Demo of the News 1: 
 
