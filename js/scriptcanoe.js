@@ -37,10 +37,6 @@ window.onload = () => {
 };
 
 
-
-
-//till here is new code
-
 window.onscroll = () => {
     navbar.classList.remove('active');
     loginForm.classList.remove('active');
