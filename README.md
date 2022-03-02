@@ -31,11 +31,17 @@ https://user-images.githubusercontent.com/16030875/156280466-c7ea38cc-85e3-4391-
 
 
 - Demo of the Property 1: 
+
+https://user-images.githubusercontent.com/16030875/156280560-0320ebf5-77be-47c1-9b35-f6b325cd9d4f.mp4
+
+
 - Demo of the News 1: 
 
 Screenshots:
 
 ![main mockup](https://user-images.githubusercontent.com/16030875/156280211-85929266-5abc-41f3-aeb3-105f7fdb5b62.png)
+
+
 
 
 
