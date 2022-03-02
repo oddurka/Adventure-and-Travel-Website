@@ -5,7 +5,7 @@ This is a conceptual case of a Travel Agency Website with the purpose of improvi
 
 Table of contents • Overview • The Conceptual Website • Links Screenshots • Technologies used • Features • What I learned • Continued development • Useful resources • Author • Acknowledgments
 
-
+-----------------------------------------------------------------------
 
 • Overview:
 This is a modern Travel Agency website that has the purpose of offering the different travel services/destination packages they offer, connect with their agents and have access to the customizable travel expeiences online in a responsive website that is responsive for any type of devices, it also offers camping products and traveling blogs. Please notice that not all buttons have functionalities, this is due to showcase purposes where every section has extra pages when you click on "Read More", this is a list with the functioning buttons:
